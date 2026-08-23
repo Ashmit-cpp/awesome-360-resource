@@ -54,7 +54,7 @@ Open-source viewers you can self-host or build on.
 - [Three.js](https://github.com/mrdoob/three.js) — The foundation most web 360 players are built on; see the equirectangular video examples.
 - [Panolens.js](https://github.com/pchen66/panolens.js) — Three.js-based panorama viewer with a simple API.
 - [videojs-vr](https://github.com/videojs/videojs-vr) — 360/VR video plugin for the Video.js player.
-- [WatchVR](https://watchvr.online/) — Open-source browser player for local 180°, 360°, SBS, top-bottom, mono, and front-back video; selected files remain on the device.
+- [WatchVR](https://watchvr.online/) — Browser player for local 180°, 360°, SBS, top-bottom, mono, and front-back video; selected files remain on the device.
 
 ## WordPress
 
